@@ -14,3 +14,5 @@ Sensors and Components code name and full-name :-
 9)BT-Module(Bluetooth module)
 10)Mini battery operated Starter-Motor
 11)Buzzer(2)
+NOTE:Create a table in your MySQL database as per inside the python code and then run as per the below given note.
+NOTE:This is a wireless system(not connected with laptop) as it is replicating a real home security, so donot forget to connect bluetooth module with the computer system and make sure you select correct port number while running the serial prompt. After running serial promt then run the python file.
